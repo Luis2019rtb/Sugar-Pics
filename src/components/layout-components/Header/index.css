@@ -1,0 +1,10 @@
+.header{
+  min-width: 700px;
+}
+.MainLogo {
+  margin-right: 50px;
+  font-size: xx-large;
+} 
+.MainLogo > .anticon{
+  color: white;
+} 
